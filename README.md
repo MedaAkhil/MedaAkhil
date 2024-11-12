@@ -1,5 +1,5 @@
 # 💫 About Me:
-UnderGrad AnuragUniversity<br>Looking to collaborate on generative AI Projects<br>Looking forward to working with DataScience, Machine Learning, MLOps<br>I am currently Learning Big Data Tools Spark, Hadoop, Flume....<br>Open to collaboration
+UnderGrad AnuragUniversity<br>Looking to collaborate on generative AI Projects <br>Looking forward to working with DataScience, Machine Learning, MLOps<br>I am currently Learning Big Data Tools Spark, Hadoop, Flume....<br>Open to collaboration
 
 
 ## 🌐 Socials:
