@@ -7,7 +7,7 @@ UnderGrad AnuragUniversity<br>Looking to collaborate on generative AI Projects <
 [![Static Badge](https://img.shields.io/badge/PortFolio-red?style=flat&logo=gitconnected&logoSize=0.95%20inches&color=%23ffddaa)](https://medaakhil.github.io/personalPortfolio/)
 
 
-<picture>
+<picture> 
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
